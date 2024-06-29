@@ -37,7 +37,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>MERN stack web dev</li>
         <li>Next.js web dev</li>
-        <li>Data Structures & Algorithms</li>
+        <li>Data Structures &amp; Algorithms</li>
       </ul>
     ),
   },
@@ -60,7 +60,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          With a focus on simplifying complex problems, I specialize in developing practical solutions through programming and innovative thinking. As a project enthusiast, I've led impactful initiatives, optimizing elevator systems, automating website creation, ensuring product authenticity, and forecasting stock prices. Using languages like C++, Python, and JavaScript, along with frameworks and tools such as BOOST, React.js, and PyTorch, I've consistently delivered efficient algorithms and user-friendly platforms. My academic background in B. Tech from Delhi Technological University provides a strong foundation in areas like microprocessors, digital electronics, and communication systems. Beyond my technical skills, I've also demonstrated leadership as a programming mentor, dance battle winner, and team leader, showcasing a well-rounded approach to problem-solving and collaboration.
+            With a focus on simplifying complex problems, I specialize in developing practical solutions through programming and innovative thinking. As a project enthusiast, I&apos;ve led impactful initiatives, optimizing elevator systems, automating website creation, ensuring product authenticity, and forecasting stock prices. Using languages like C++, Python, and JavaScript, along with frameworks and tools such as BOOST, React.js, and PyTorch, I&apos;ve consistently delivered efficient algorithms and user-friendly platforms. My academic background in B. Tech from Delhi Technological University provides a strong foundation in areas like microprocessors, digital electronics, and communication systems. Beyond my technical skills, I&apos;ve also demonstrated leadership as a programming mentor, dance battle winner, and team leader, showcasing a well-rounded approach to problem-solving and collaboration.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
